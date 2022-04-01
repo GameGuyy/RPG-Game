@@ -1,0 +1,3 @@
+﻿  Game.cpp
+D:\Personal_Projects\C++_Game\FirstSDLGame\FirstSDLGame\ECS\ECS.h(112,11): warning C4834: discarding return value of function with 'nodiscard' attribute
+  FirstSDLGame.vcxproj -> D:\Personal_Projects\C++_Game\FirstSDLGame\Debug\FirstSDLGame.exe
